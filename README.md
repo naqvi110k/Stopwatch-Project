@@ -29,9 +29,4 @@ A simple and interactive digital stopwatch built using **Arduino UNO**, an **LCD
 - The LCD updates time in real time (HH:MM:SS)
 - The buzzer beeps briefly on each button press for feedback
 
-## 📜 Arduino Code
 
-You can find the full source code in the [`/code`](./code) directory or below:
-
-```cpp
-// Add a basic code snippet or link to full file
