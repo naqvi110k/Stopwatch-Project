@@ -20,11 +20,6 @@ A simple and interactive digital stopwatch built using **Arduino UNO**, an **LCD
 - Buzzer
 - Breadboard & Jumper Wires
 - Power Supply (USB or 9V Battery)
-
-## 🖥️ Circuit Diagram
-
-📌 *[Insert circuit diagram image or link here]*  
-*(You can upload a `circuit.png` and reference it: `![Circuit](circuit.png)`)*
   
 ## 💡 How It Works
 
